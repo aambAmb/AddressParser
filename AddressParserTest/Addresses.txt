@@ -1,0 +1,5 @@
+﻿"43150, Lemesos, Kato Polemidia, Vasileos Georgiou A,",
+"35107, Lemesos, Lemesos, Vryxellon, 4, Roussos Brussels Cout",
+"48006, Lemesos, Mesa Geitonia, Georgiou Neofytou,",
+"49521, Lemesos, Agios Tychonas, Vosporou,",
+"2668 Oktovriou",

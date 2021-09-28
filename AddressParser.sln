@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressParser", "AddressParser\AddressParser.csproj", "{2FFBD75B-A208-4016-9FA3-C78DF1BFF843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressParserTest", "AddressParserTest\AddressParserTest.csproj", "{17B5B351-897A-4246-865B-45C13347E933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FFBD75B-A208-4016-9FA3-C78DF1BFF843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFBD75B-A208-4016-9FA3-C78DF1BFF843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFBD75B-A208-4016-9FA3-C78DF1BFF843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFBD75B-A208-4016-9FA3-C78DF1BFF843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B5B351-897A-4246-865B-45C13347E933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B5B351-897A-4246-865B-45C13347E933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B5B351-897A-4246-865B-45C13347E933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B5B351-897A-4246-865B-45C13347E933}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1F0F6AA-31CA-4743-937D-A85C633E3113}
+	EndGlobalSection
+EndGlobal

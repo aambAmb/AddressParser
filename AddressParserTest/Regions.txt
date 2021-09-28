@@ -1,0 +1,447 @@
+﻿#Lemesos
+Lemesos
+Tziami Tzentit
+Arnaoutogeitonia
+Agia Napa
+Katholiki
+Agios Ioannis
+Tsiflikoudia
+Omonoia
+Apostolos Andreas
+Agios Georgios
+Apostoloi Petros kai Pavlos
+Kapsalos
+Agios Nektarios
+Agia Zoni
+Agia Trias
+Neapoli
+Agios Nikolaos
+Agia Fylaxis
+Panagia Evangelistria
+Agios Spyridon
+Zakaki
+Mesa Geitonia
+Kontovathkia
+Chalkoutsa
+Timios Prodromos
+Panthea
+Agios Athanasios
+Agios Georgios (Fragkoudi)
+Agios Stylianos
+Apostolos Loukas
+Agios Athanasios
+Germasogeia
+Agia Paraskevi
+Potamos Germasogeias
+Pano Polemidia
+Ypsonas
+Kato Polemidia
+Archangelos Michail
+Anthoupoli
+Apostolos Varnavas
+Makarios III
+Agios Nikolaos
+Panagia Evangelistria
+Palodeia
+Paramytha
+Spitali
+Fasoula Lemesou
+Mathikoloni
+Apsiou
+Apesia
+Korfi
+Limnatis
+Mouttagiaka
+Armenochori
+Foinikaria
+Akrounta
+Agios Tychon
+Parekklisia
+Pentakomo
+Monagroulli
+Moni
+Pyrgos Lemesou
+Asgata
+Vasa Kellakiou
+Sanida
+Prastio Kellakiou
+Klonari
+Kellaki
+Eptagoneia
+Dierona
+Arakapas
+Agios Pavlos
+Agios Konstantinos
+Sykopetra
+Louvaras
+Kalo Chorio Lemesou
+Akrotiri
+Asomatos Lemesou
+Tserkezoi
+Trachoni Lemesou
+Kolossi
+Apostolos Andreas
+Agios Loukas
+Erimi
+Episkopi Lemesou
+Kantou
+Sotira Lemesou
+Prastio Avdimou
+Paramali
+Avdimou
+Platanisteia
+Agios Thomas
+Alektora
+Anogyra
+Pissouri
+Souni-Zanakia
+Alassa
+Pano Kivides
+Agios Amvrosios Lemesou
+Agios Therapon
+Pachna
+Agios Georgios Lemesou
+Doros
+Laneia
+Silikou
+Monagri
+Trimiklini
+Agios Mamas
+Kouka
+Moniatis
+Dora
+Arsos Lemesou
+Malia
+Vasa Koilaniou
+Vouni
+Pera Pedi
+Mandria Lemesou
+Potamiou
+Omodos
+Koilani
+Prodromos
+Kaminaria
+Treis Elies
+Kato Platres (Tornarides)
+Pano Platres
+Foini
+Amiantos
+Agios Ioannis Lemesou
+Potamitissa
+Dymes
+Pelendri
+Agros
+Chandria
+Kyperounta
+
+
+
+
+
+
+#Pafos
+Pafos
+Mouttallos
+Agios Pavlos
+Agios Theodoros
+Kato Pafos
+Anavargos
+Geroskipou
+Geroskipou
+Koloni
+Konia
+Agia Marinouda
+Acheleia
+Chlorakas
+Lempa
+Empa
+Tremithousa
+Mesa Chorio
+Mesogi
+Tala
+Kissonerga
+Kouklia Pafou
+Mandria Pafou
+Nikokleia
+Timi
+Agia Varvara Pafou
+Anarita
+Marathounta
+Armou
+Episkopi Pafou
+Nata
+Choletria
+Axylou
+Eledio
+Tsada
+Koili
+Stroumpi
+Polemi
+Kallepeia
+Letymvou
+Lemona
+Choulou
+Kathikas
+Pegeia
+Pano Archimandrita
+Fasoula Pafou
+Agios Georgios Pafou
+Trachypedoula
+Kelokedara
+Salamiou
+Kidasi
+Kedares
+Mesana
+Filousa Kelokedaron
+Amargeti
+Galataria
+Statos-Agios Fotios
+Mamountali
+Pano Panagia
+Psathi
+Agios Dimitrianos
+Kannaviou
+Kritou Marottou
+Fyti
+Lasa
+Drymou
+Filousa Chrysochous
+Meladeia
+Lysos
+Peristerona Pafou
+Theletra
+Giolou
+Miliou
+Tera
+Kritou Tera
+Skoulli
+Choli
+Karamoullides
+Chrysochou
+Polis
+Polis Chrysochous
+Prodromi
+Neo Chorio Pafou
+Goudi
+Kato Arodes
+Pano Arodes
+Ineia
+Pelathousa
+Kynousa
+Makounta
+Argaka
+Gialia
+Agia Marina Chrysochous
+Nea Dimmata
+Pomos
+Steni
+
+
+
+#Larnaka
+Larnaka
+Skala
+Chrysopolitissa
+Sotiros
+Archiepiskopos Makarios III
+Tsakilero
+Kokkines
+Agios Nikolaos
+Agioi Anargyroi I
+Agioi Anargyroi II
+Kamares
+Aradippou
+Agios Fanourios
+Apostolos Loukas
+Vlachos
+Livadia Larnakas
+Dromolaxia
+Meneou
+Kellia
+Troulloi
+Voroklini (Oroklini)
+Avdellero
+Pyla
+Xylotymvou
+Ormideia
+Xylofagou
+Pergamos
+Kiti
+Perivolia Larnakas
+Tersefanou
+Mazotos
+Alaminos
+Anafotida
+Kivisili
+Alethriko
+Klavdia
+Anglisides
+Menogeia
+Athienou
+Kalo Chorio Larnakas
+Agia Anna
+Mosfiloti
+Psevdas
+Pyrga Larnakas
+Kornos
+Delikipos
+Zygi
+Mari
+Kalavasos
+Tochni
+Choirokoitia
+Psematismenos
+Maroni
+Agios Theodoros Larnakas
+Skarinou
+Kofinou
+Kato Lefkara
+Pano Lefkara
+Kato Drys
+Vavla
+Ora
+Melini
+Agioi Vavatsinias
+
+
+#Ammochostos
+Agia Napa
+Paralimni
+Deryneia
+Sotira Ammochostou
+Liopetri
+Frenaros
+Avgorou
+Achna
+Acheritou
+
+
+#Lefkosia
+Lefkosia
+Agios Andreas
+Trypiotis
+Nempetchane
+Tampakchane
+Faneromeni
+Agios Savvas
+Omerie
+Agios Antonios
+Agios Ioannis
+Taktelkale
+Chrysaliniotissa
+Agios Kassianos
+Ka?makli
+Panagia
+Agioi Konstantinos kai Eleni
+Agioi Omologitai
+Arap Achmet
+Geni Tzami
+Omorfita
+Agios Dometios
+Agios Pavlos
+Agios Georgios
+Egkomi
+Strovolos
+Chryseleousa
+Agios Dimitrios
+Apostolos Varnavas kai Agios Makarios
+Agios Vasileios
+Ethnomartyras Kyprianos
+Stavros
+Aglantzia
+Lakatameia
+Agios Mamas
+Agia Paraskevi
+Archangelos - Anthoupoli
+Agios Nikolaos
+Synoikismos Anthoupolis
+Latsia
+Agios Georgios
+Agios Eleftherios
+Archangelos Michail
+Geri
+Sia
+Mathiatis
+Alampra
+Agia Varvara Lefkosias
+Kotsiatis
+Nisou
+Pera Chorio
+Dali
+Agioi Konstantinos kai Eleni
+Panagia Evangelistria
+Lympia
+Lythrodontas
+Potamia
+Farmakas
+Apliki
+Gourri
+Agios Epifanios Oreinis
+Kalo Chorio Oreinis
+Malounta
+Klirou
+Arediou
+Agios Ioannis Malountas
+Agrokipia
+Mitsero
+Kapedes
+Analiontas
+Kampia
+Margi
+Tseri
+Politiko
+Pera
+Episkopeio
+Psimolofou
+Ergates
+Anageia
+Pano Deftera
+Kato Deftera
+Agioi Trimithias
+Palaiometocho
+Deneia
+Kokkinotrimithia
+Mammari
+Palaichori Morfou
+Askas
+Alona
+Fterikoudi
+Polystypos
+Lagoudera
+Platanistasa
+Palaichori Oreinis
+Xyliatos
+Nikitari
+Vyzakia
+Agia Marina Xyliatou
+Kato Moni
+Orounta
+Potami
+Akaki
+Peristerona Lefkosias
+Astromeritis
+Meniko
+Spilia
+Agios Antonios
+Kannavia
+Kakopetria
+Galata
+Sinaoros
+Kaliana
+Temvria
+Korakou
+Evrychou
+Flasou
+Linou
+Katydata
+Skouriotissa (Foukasa)
+Pedoulas
+Moutoullas
+Oikos
+Kalopanagiotis
+Gerakies
+Kampos
+Kato Pyrgos
+Pigenia
+Pachyammos
+Mansoura
